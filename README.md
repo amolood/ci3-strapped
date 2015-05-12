@@ -1,5 +1,5 @@
 # ci3-strapped
-Codeigniter 3 with bootstrap
+Codeigniter 3 with Twitter Bootstrap
 
 This package is add-ons to be used on top of standard CodeIgniter package to enable Twitter bootstrap functionalities to be used.
 
